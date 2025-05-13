@@ -57,3 +57,12 @@ body {
     align-items: end;
     height: 3rem;
 }
+
+@media (max-width:1100px) {
+    .middle-top {
+        height: 30rem;
+    }
+    .middle-bottom {
+        height: 18rem;
+    }
+}
